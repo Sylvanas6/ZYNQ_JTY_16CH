@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=CORE.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=CORE.SchDoc|FileName=NET&232&USART&SD&FLASH.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=CORE.SchDoc|FileName=PD.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=CORE.SchDoc|FileName=PWR.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=CORE.SchDoc|FileName=S7500_Drv.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=CORE.SchDoc|FileName=USB_HOST.SchDoc|SheetNumber=5
