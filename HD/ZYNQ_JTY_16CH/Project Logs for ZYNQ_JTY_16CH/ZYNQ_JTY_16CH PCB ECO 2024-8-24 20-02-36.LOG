@@ -1,0 +1,53 @@
+Removed Pin From Net: NetName=X_CNV Pin=7020-J1_12
+Removed Pin From Net: NetName=X_SDO1 Pin=7020-J1_14
+Removed Pin From Net: NetName=X_SDO2 Pin=7020-J1_16
+Removed Pin From Net: NetName=X_SDO3 Pin=7020-J1_18
+Removed Pin From Net: NetName=X_SDO4 Pin=7020-J1_20
+Removed Pin From Net: NetName=X_CLKOUT Pin=7020-J1_22
+Removed Pin From Net: NetName=X_SCK Pin=7020-J1_26
+Removed Pin From Net: NetName=Y_CNV Pin=7020-J1_28
+Removed Pin From Net: NetName=Y_SDO1 Pin=7020-J1_30
+Removed Pin From Net: NetName=Y_SDO2 Pin=7020-J1_32
+Removed Pin From Net: NetName=Y_SDO3 Pin=7020-J1_36
+Removed Pin From Net: NetName=Y_SDO4 Pin=7020-J1_38
+Removed Pin From Net: NetName=Y_CLKOUT Pin=7020-J1_40
+Removed Pin From Net: NetName=Y_SCK Pin=7020-J1_44
+Removed Pin From Net: NetName=Z_CNV Pin=7020-J1_46
+Removed Pin From Net: NetName=Z_SD01 Pin=7020-J1_48
+Removed Pin From Net: NetName=Z_SD02 Pin=7020-J1_50
+Removed Pin From Net: NetName=Z_SD03 Pin=7020-J1_54
+Removed Pin From Net: NetName=Z_SD04 Pin=7020-J1_56
+Removed Pin From Net: NetName=Z_CLKOUT Pin=7020-J1_58
+Removed Pin From Net: NetName=Z_SCK Pin=7020-J1_62
+Added Pin To Net: NetName=Y_CNV Pin=7020-J1_12
+Added Pin To Net: NetName=Y_SDO1 Pin=7020-J1_14
+Added Pin To Net: NetName=Y_SDO2 Pin=7020-J1_16
+Added Pin To Net: NetName=Y_SDO3 Pin=7020-J1_18
+Added Pin To Net: NetName=Y_SDO4 Pin=7020-J1_20
+Added Pin To Net: NetName=Y_CLKOUT Pin=7020-J1_22
+Added Pin To Net: NetName=Y_SCK Pin=7020-J1_26
+Added Pin To Net: NetName=Z_CNV Pin=7020-J1_28
+Added Pin To Net: NetName=Z_CLKOUT Pin=7020-J1_40
+Added Pin To Net: NetName=Z_SCK Pin=7020-J1_44
+Added Pin To Net: NetName=W_CNV Pin=7020-J1_46
+Added Pin To Net: NetName=W_CLKOUT Pin=7020-J1_58
+Added Pin To Net: NetName=W_SCK Pin=7020-J1_62
+Change Net Name : Old Net Name=X_CLKOUTEN New Net Name=Y_CLKOUTEN
+Change Net Name : Old Net Name=Y_CLKOUTEN New Net Name=Z_CLKOUTEN
+Change Net Name : Old Net Name=Z_CLKOUTEN New Net Name=W_CLKOUTEN
+Added Pin To Net: NetName=W_SD01 Pin=7020-J1_48
+Added Net: Name=W_SD01
+Added Pin To Net: NetName=W_SD02 Pin=7020-J1_50
+Added Net: Name=W_SD02
+Added Pin To Net: NetName=W_SD03 Pin=7020-J1_54
+Added Net: Name=W_SD03
+Added Pin To Net: NetName=W_SD04 Pin=7020-J1_56
+Added Net: Name=W_SD04
+Added Pin To Net: NetName=Z_SDO1 Pin=7020-J1_30
+Added Net: Name=Z_SDO1
+Added Pin To Net: NetName=Z_SDO2 Pin=7020-J1_32
+Added Net: Name=Z_SDO2
+Added Pin To Net: NetName=Z_SDO3 Pin=7020-J1_36
+Added Net: Name=Z_SDO3
+Added Pin To Net: NetName=Z_SDO4 Pin=7020-J1_38
+Added Net: Name=Z_SDO4

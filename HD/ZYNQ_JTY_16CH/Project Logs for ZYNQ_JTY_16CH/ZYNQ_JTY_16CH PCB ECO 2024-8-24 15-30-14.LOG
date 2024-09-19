@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=SDI_GAIN Pin=7020-J1_72
+Removed Pin From Net: NetName=SCLK_GAIN Pin=7020-J1_74
+Removed Pin From Net: NetName=/RST_GAIN Pin=7020-J1_78
+Removed Pin From Net: NetName=/SB_GAIN Pin=7020-J1_80
+Added Pin To Net: NetName=/SB_GAIN Pin=7020-J1_72
+Added Pin To Net: NetName=/RST_GAIN Pin=7020-J1_74
+Added Pin To Net: NetName=SCLK_GAIN Pin=7020-J1_78
+Added Pin To Net: NetName=SDI_GAIN Pin=7020-J1_80

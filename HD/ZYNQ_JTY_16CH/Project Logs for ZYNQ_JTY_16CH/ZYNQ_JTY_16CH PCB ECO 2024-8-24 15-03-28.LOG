@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=DB15B Pin=7020-J2_28
+Removed Pin From Net: NetName=CLKB Pin=7020-J2_30
+Added Pin To Net: NetName=CLKB Pin=7020-J2_28
+Added Pin To Net: NetName=DB15B Pin=7020-J2_30

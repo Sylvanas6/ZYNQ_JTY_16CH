@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=CNV9 Pin=7020-J1_29
+Removed Pin From Net: NetName=SDO9 Pin=7020-J1_31
+Removed Pin From Net: NetName=SCK9 Pin=7020-J1_33
+Removed Pin From Net: NetName=W_CNV Pin=7020-J1_46
+Removed Pin From Net: NetName=W_CLKOUT Pin=7020-J1_58
+Removed Pin From Net: NetName=W_CLKOUTEN Pin=7020-J1_60
+Removed Pin From Net: NetName=W_SCK Pin=7020-J1_62
+Added Pin To Net: NetName=W_CNV Pin=7020-J1_33
+Added Pin To Net: NetName=W_SDO1 Pin=7020-J1_35
+Added Pin To Net: NetName=W_SDO2 Pin=7020-J1_37
+Added Pin To Net: NetName=W_CLKOUT Pin=7020-J1_39
+Added Pin To Net: NetName=W_CLKOUTEN Pin=7020-J1_43
+Added Pin To Net: NetName=W_SDO3 Pin=7020-J1_45
+Added Pin To Net: NetName=CNV9 Pin=7020-J1_46
+Added Pin To Net: NetName=W_SDO4 Pin=7020-J1_47
+Added Pin To Net: NetName=SDO9 Pin=7020-J1_48
+Added Pin To Net: NetName=W_SCK Pin=7020-J1_49
+Added Pin To Net: NetName=SCK9 Pin=7020-J1_50
+Added Pin To Net: NetName=X_CLKOUTEN Pin=7020-J1_29
+Added Net: Name=X_CLKOUTEN

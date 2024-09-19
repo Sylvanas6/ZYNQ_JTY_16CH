@@ -1,0 +1,11 @@
+Added Component: Designator=S7500(S7500-14*0.8mm)
+Added Pin To Net: NetName=TEC- Pin=S7500-1
+Added Pin To Net: NetName=TEC+ Pin=S7500-2
+Added Pin To Net: NetName=FB- Pin=S7500-3
+Added Pin To Net: NetName=AGND2 Pin=S7500-5
+Added Pin To Net: NetName=SOA Pin=S7500-9
+Added Pin To Net: NetName=GAIN Pin=S7500-10
+Added Pin To Net: NetName=PHASE Pin=S7500-11
+Added Pin To Net: NetName=LEFT Pin=S7500-12
+Added Pin To Net: NetName=RIGHT Pin=S7500-13
+Added Pin To Net: NetName=AGND2 Pin=S7500-14

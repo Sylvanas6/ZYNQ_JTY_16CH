@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=QSPI_CS Pin=7020-J1_77
+Removed Pin From Net: NetName=QSPI_IO1 Pin=7020-J1_79
+Added Pin To Net: NetName=QSPI_IO1 Pin=7020-J1_77
+Added Pin To Net: NetName=QSPI_CS Pin=7020-J1_79

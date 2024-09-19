@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=/CS_GAIN Pin=U13-21
+Added Pin To Net: NetName=/CS_SOA Pin=U13-21

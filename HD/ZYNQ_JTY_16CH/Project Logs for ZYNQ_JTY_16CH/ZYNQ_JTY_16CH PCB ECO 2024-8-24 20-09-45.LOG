@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=Y_SDO3 Pin=7020-J1_18
+Removed Pin From Net: NetName=Y_SDO4 Pin=7020-J1_20
+Removed Pin From Net: NetName=Y_CLKOUT Pin=7020-J1_22
+Added Pin To Net: NetName=Y_CLKOUT Pin=7020-J1_18
+Added Pin To Net: NetName=Y_SDO3 Pin=7020-J1_20
+Added Pin To Net: NetName=Y_SDO4 Pin=7020-J1_22

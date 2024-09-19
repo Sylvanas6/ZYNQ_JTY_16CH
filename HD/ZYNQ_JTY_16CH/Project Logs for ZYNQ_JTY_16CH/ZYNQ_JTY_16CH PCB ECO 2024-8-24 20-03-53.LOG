@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=X_SDO4 Pin=7020-J1_23
+Removed Pin From Net: NetName=X_CLKOUT Pin=7020-J1_25
+Added Pin To Net: NetName=X_CLKOUT Pin=7020-J1_23
+Added Pin To Net: NetName=X_SDO4 Pin=7020-J1_25

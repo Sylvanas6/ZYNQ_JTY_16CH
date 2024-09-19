@@ -1,0 +1,136 @@
+Removed Pin From Net: NetName=AGND1 Pin=U25-9
+Removed Pin From Net: NetName=AGND1 Pin=U26-9
+Removed Pin From Net: NetName=AGND1 Pin=U27-9
+Removed Pin From Net: NetName=AGND1 Pin=U28-9
+Removed Pin From Net: NetName=AGND1 Pin=U29-9
+Removed Pin From Net: NetName=AGND1 Pin=U30-9
+Removed Pin From Net: NetName=AGND1 Pin=U31-9
+Removed Pin From Net: NetName=AGND1 Pin=U32-9
+Removed Pin From Net: NetName=AGND1 Pin=U33-9
+Removed Pin From Net: NetName=AGND1 Pin=U34-9
+Removed Pin From Net: NetName=AGND1 Pin=U35-9
+Removed Pin From Net: NetName=AGND1 Pin=U36-9
+Removed Pin From Net: NetName=AGND1 Pin=U37-9
+Removed Pin From Net: NetName=AGND1 Pin=U38-9
+Removed Pin From Net: NetName=AGND1 Pin=U39-9
+Removed Pin From Net: NetName=AGND1 Pin=U40-9
+Removed Pin From Net: NetName=AGND1 Pin=U41-9
+Change Component Footprint: Designator=U25 Old Footprint=U_WQFN8_DTK_TEX New Footprint=D0008A_N
+Change Component Footprint: Designator=U26 Old Footprint=U_WQFN8_DTK_TEX New Footprint=D0008A_N
+Change Component Footprint: Designator=U27 Old Footprint=U_WQFN8_DTK_TEX New Footprint=D0008A_N
+Change Component Footprint: Designator=U28 Old Footprint=U_WQFN8_DTK_TEX New Footprint=D0008A_N
+Change Component Footprint: Designator=U29 Old Footprint=U_WQFN8_DTK_TEX New Footprint=D0008A_N
+Change Component Footprint: Designator=U30 Old Footprint=U_WQFN8_DTK_TEX New Footprint=D0008A_N
+Change Component Footprint: Designator=U31 Old Footprint=U_WQFN8_DTK_TEX New Footprint=D0008A_N
+Change Component Footprint: Designator=U32 Old Footprint=U_WQFN8_DTK_TEX New Footprint=D0008A_N
+Change Component Footprint: Designator=U33 Old Footprint=U_WQFN8_DTK_TEX New Footprint=D0008A_N
+Change Component Footprint: Designator=U34 Old Footprint=U_WQFN8_DTK_TEX New Footprint=D0008A_N
+Change Component Footprint: Designator=U35 Old Footprint=U_WQFN8_DTK_TEX New Footprint=D0008A_N
+Change Component Footprint: Designator=U36 Old Footprint=U_WQFN8_DTK_TEX New Footprint=D0008A_N
+Change Component Footprint: Designator=U37 Old Footprint=U_WQFN8_DTK_TEX New Footprint=D0008A_N
+Change Component Footprint: Designator=U38 Old Footprint=U_WQFN8_DTK_TEX New Footprint=D0008A_N
+Change Component Footprint: Designator=U39 Old Footprint=U_WQFN8_DTK_TEX New Footprint=D0008A_N
+Change Component Footprint: Designator=U40 Old Footprint=U_WQFN8_DTK_TEX New Footprint=D0008A_N
+Change Component Footprint: Designator=U41 Old Footprint=U_WQFN8_DTK_TEX New Footprint=D0008A_N
+Change Component Comment : Designator=R61 Old Comment=200K New Comment=200K 1%
+Change Component Comment : Designator=R62 Old Comment=200K New Comment=200K 1%
+Change Component Comment : Designator=R63 Old Comment=200K New Comment=200K 1%
+Change Component Comment : Designator=R64 Old Comment=200K New Comment=200K 1%
+Change Component Comment : Designator=R73 Old Comment=200K New Comment=200K 1%
+Change Component Comment : Designator=R74 Old Comment=200K New Comment=200K 1%
+Change Component Comment : Designator=R75 Old Comment=200K New Comment=200K 1%
+Change Component Comment : Designator=R76 Old Comment=200K New Comment=200K 1%
+Change Component Comment : Designator=R85 Old Comment=200K New Comment=200K 1%
+Change Component Comment : Designator=R86 Old Comment=200K New Comment=200K 1%
+Change Component Comment : Designator=R87 Old Comment=200K New Comment=200K 1%
+Change Component Comment : Designator=R88 Old Comment=200K New Comment=200K 1%
+Change Component Comment : Designator=R97 Old Comment=200K New Comment=200K 1%
+Change Component Comment : Designator=R98 Old Comment=200K New Comment=200K 1%
+Change Component Comment : Designator=R99 Old Comment=200K New Comment=200K 1%
+Change Component Comment : Designator=R100 Old Comment=200K New Comment=200K 1%
+Change Component Comment : Designator=R109 Old Comment=200K New Comment=200K 1%
+Change Component Comment : Designator=U25 Old Comment=OPA862IDTKR New Comment=OPA862IDR
+Change Component Comment : Designator=U26 Old Comment=OPA862IDTKR New Comment=OPA862IDR
+Change Component Comment : Designator=U27 Old Comment=OPA862IDTKR New Comment=OPA862IDR
+Change Component Comment : Designator=U28 Old Comment=OPA862IDTKR New Comment=OPA862IDR
+Change Component Comment : Designator=U29 Old Comment=OPA862IDTKR New Comment=OPA862IDR
+Change Component Comment : Designator=U30 Old Comment=OPA862IDTKR New Comment=OPA862IDR
+Change Component Comment : Designator=U31 Old Comment=OPA862IDTKR New Comment=OPA862IDR
+Change Component Comment : Designator=U32 Old Comment=OPA862IDTKR New Comment=OPA862IDR
+Change Component Comment : Designator=U33 Old Comment=OPA862IDTKR New Comment=OPA862IDR
+Change Component Comment : Designator=U34 Old Comment=OPA862IDTKR New Comment=OPA862IDR
+Change Component Comment : Designator=U35 Old Comment=OPA862IDTKR New Comment=OPA862IDR
+Change Component Comment : Designator=U36 Old Comment=OPA862IDTKR New Comment=OPA862IDR
+Change Component Comment : Designator=U37 Old Comment=OPA862IDTKR New Comment=OPA862IDR
+Change Component Comment : Designator=U38 Old Comment=OPA862IDTKR New Comment=OPA862IDR
+Change Component Comment : Designator=U39 Old Comment=OPA862IDTKR New Comment=OPA862IDR
+Change Component Comment : Designator=U40 Old Comment=OPA862IDTKR New Comment=OPA862IDR
+Change Component Comment : Designator=U41 Old Comment=OPA862IDTKR New Comment=OPA862IDR
+Change component parameters: Designator = "U25" ("U25"); Footprint = "U_WQFN8_DTK_TEX"; UniqueID = "\GYGRUIJN" ("\GYGRUIJN")
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "TYPE"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U26" ("U26"); Footprint = "U_WQFN8_DTK_TEX"; UniqueID = "\ICHSZKBY" ("\ICHSZKBY")
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "TYPE"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U27" ("U27"); Footprint = "U_WQFN8_DTK_TEX"; UniqueID = "\PJDOHWEK" ("\PJDOHWEK")
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "TYPE"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U28" ("U28"); Footprint = "U_WQFN8_DTK_TEX"; UniqueID = "\DAJTFWTW" ("\DAJTFWTW")
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "TYPE"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U29" ("U29"); Footprint = "U_WQFN8_DTK_TEX"; UniqueID = "\ILVOBRGX" ("\ILVOBRGX")
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "TYPE"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U30" ("U30"); Footprint = "U_WQFN8_DTK_TEX"; UniqueID = "\TOUFMOIL" ("\TOUFMOIL")
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "TYPE"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U31" ("U31"); Footprint = "U_WQFN8_DTK_TEX"; UniqueID = "\FIMCKABA" ("\FIMCKABA")
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "TYPE"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U32" ("U32"); Footprint = "U_WQFN8_DTK_TEX"; UniqueID = "\WYWIYVJS" ("\WYWIYVJS")
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "TYPE"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U33" ("U33"); Footprint = "U_WQFN8_DTK_TEX"; UniqueID = "\BDBAWJZC" ("\BDBAWJZC")
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "TYPE"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U34" ("U34"); Footprint = "U_WQFN8_DTK_TEX"; UniqueID = "\XPPDADHW" ("\XPPDADHW")
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "TYPE"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U35" ("U35"); Footprint = "U_WQFN8_DTK_TEX"; UniqueID = "\ZSGBSCRJ" ("\ZSGBSCRJ")
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "TYPE"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U36" ("U36"); Footprint = "U_WQFN8_DTK_TEX"; UniqueID = "\HOCHIRAQ" ("\HOCHIRAQ")
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "TYPE"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U37" ("U37"); Footprint = "U_WQFN8_DTK_TEX"; UniqueID = "\GIWPKJWT" ("\GIWPKJWT")
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "TYPE"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U38" ("U38"); Footprint = "U_WQFN8_DTK_TEX"; UniqueID = "\CLZZJRDM" ("\CLZZJRDM")
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "TYPE"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U39" ("U39"); Footprint = "U_WQFN8_DTK_TEX"; UniqueID = "\JWJDAHEU" ("\JWJDAHEU")
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "TYPE"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U40" ("U40"); Footprint = "U_WQFN8_DTK_TEX"; UniqueID = "\SQIIGEDS" ("\SQIIGEDS")
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "TYPE"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U41" ("U41"); Footprint = "U_WQFN8_DTK_TEX"; UniqueID = "\FIIBSZOK" ("\FIIBSZOK")
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "TYPE"; VariantName = "[No Variations]"

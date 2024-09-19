@@ -1,0 +1,10 @@
+Added Component: Designator=C262(C0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "当前库版本V2023.5.31 @淘宝卖家:黄晶宝石"; Value = "最新版本发布https://item.taobao.com/item.htm?id=566775463719"; VariantName = "[No Variations]"
+Added Component: Designator=C263(C0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "当前库版本V2023.5.31 @淘宝卖家:黄晶宝石"; Value = "最新版本发布https://item.taobao.com/item.htm?id=566775463719"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AGND2 Pin=C262-1
+Added Pin To Net: NetName=+A9_S7500 Pin=C262-2
+Added Pin To Net: NetName=AGND2 Pin=C263-1
+Added Pin To Net: NetName=+A9_S7500 Pin=C263-2
